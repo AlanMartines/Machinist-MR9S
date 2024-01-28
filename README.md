@@ -37,3 +37,34 @@ Original Bios Machinist X99 MR9S
 ## Erros em Diferentes BIOS
 - **Award BIOS:** Falha no autoteste de memória, verificar circuito de controle de memória da placa-mãe e slots de memória
 - **Phoenix BIOS:** "55, AA" no setor de inicialização indicam falha na auto-verificação
+
+# Códigos de Erros Comuns
+
+## Códigos de Erro e Soluções
+
+1. **Código 55 - Erro de Memória**
+   - **Problema:** Erro na detecção ou funcionamento da memória.
+   - **Solução:** Limpar os slots de memória com álcool isopropílico ou considerar a substituição da memória.
+
+2. **Código 60 - Problema com a Memória**
+   - **Problema:** Indica um problema com a memória instalada na placa-mãe.
+   - **Solução:** Verificar a instalação e compatibilidade da memória, ou substituir se necessário.
+
+3. **Código 67 - Memória Não Detectada, Problema na Placa de Vídeo**
+   - **Problema:** A memória instalada não foi detectada; pode também indicar um problema com a placa de vídeo.
+   - **Solução:** Verificar a instalação da memória e da placa de vídeo, garantir a compatibilidade e conexões corretas.
+
+4. **Código 73 - Código Normal de Inicialização**
+   - **Descrição:** Indica uma parte normal do processo de inicialização do sistema.
+
+5. **Código AA - Problemas de Detecção de Memória / Inicialização Normal**
+   - **Problema:** A placa-mãe não é capaz de detectar a memória instalada ou pode ser um código normal de inicialização.
+   - **Solução:** Se for um erro, verificar a memória instalada; se for inicialização normal, não é necessário intervenção.
+
+6. **Código 77 - Erro de Memória**
+   - **Problema:** Erro similar ao Código 55, relacionado a problemas na detecção ou funcionamento da memória.
+   - **Solução:** Limpeza com álcool isopropílico ou considerar a substituição da memória.
+
+7. **Código FF - Possíveis Causas Variadas**
+   - **Problema:** Pode indicar BIOS corrompida, problema no processador, ou cabos conectados de forma incorreta.
+   - **Solução:** Verificar e regravar a BIOS se necessário, inspecionar os pinos do socket do processador, e assegurar que todos os cabos estejam corretamente conectados.
